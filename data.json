@@ -1,0 +1,789 @@
+{
+   "Banana Cake": 
+      {
+         "Meal": "B",
+         "Level": "3",
+         "Directions": "Bake in three layer pans at 350 degrees.",
+         "Category": "Cakes"
+      }
+   ,
+   "Blueberry Coffee Cake": 
+      {
+         "Meal": "B",
+         "Level": "2",
+         "Directions": "Mix butter, 1 cup sugar, flour, 2 eggs, 2 tsp vanilla, baking powder, and milk to make cake batter. Blend easily. Add 3 cups of blueberries. Put 2 1/2 cups of batter in pan. Mix cream cheese, 1/2 cup sugar, 1 egg, lemon juice and 1 tsp vanilla to make filling. Put filling on top of batter. Top with remaining batter. Make streusel topping from flour, butter, brown sugar, ad cinnamon. Sprinkle on top of cake. Bake at 375 degrees for 1 hour and 5 minutes. Check after 50 minutes.",
+         "Category": "Cakes"
+      }
+   ,
+   "Chocolate Cake": 
+      {
+         "Meal": "B",
+         "Level": "1",
+         "Directions": "Mix all ingredients together. Pour in 1 cup boiling water. Mix well. Bake about 35 minutes at 375 degrees.",
+         "Category": "Cakes"
+      }
+   ,
+   "Chocolate Mayonaise Cake": 
+      {
+         "Meal": "B",
+         "Level": "3",
+         "Directions": "Makes 2 layer cake.",
+         "Category": "Cakes"
+      }
+   ,
+   "Crazy Cake": 
+      {
+         "Meal": "B",
+         "Level": "1",
+         "Directions": "Mix first 5 ingredients well, about 4 minutes. Bake at 350 degrees in a 9x13 pan for 35 minutes. Poke holes in warm cake and pour on mixture of powdered sugar and lemon juice.",
+         "Category": "Cakes"
+      }
+   ,
+   "Fresh Apple Cake": 
+      {
+         "Meal": "B",
+         "Level": "2",
+         "Directions": "Mix apples and sugar well. Add oil, nuts, and eggs. Add vanilla and dry ingredients. Bake at 350 degrees for 40-45 minutes. Serve with whipped cream or top with cream cheese frosting.",
+         "Category": "Cakes"
+      }
+   ,
+   "Fresh Pear Cake": 
+      {
+         "Meal": "B",
+         "Level": "2",
+         "Directions": "Butter and flour a 9 inch round pan. Peel and slice pears. Blend eggs, sugar, milk, and salt. Add flour, mix well. Fold 1/2 of pears into batter. Pour into pan, fan remaining pears on top. Dot with butter. Bake at 350 degrees about 55 minutes. Sprinkle with powdered sugar.",
+         "Category": "Cakes"
+      }
+   ,
+   "Graham Cracker Cake": 
+      {
+         "Meal": "B",
+         "Level": "5",
+         "Directions": "Cream butter and sugar. Add crushed crackers, sour milk, and soda. Stir in nuts. Bake in 10 inch square baking pan. Bake in 350 degree oven for 30-35 minutes. Serve with whipped cream or thin powdered sugar icing.",
+         "Category": "Cakes"
+      }
+   ,
+   "Hot Water Chocolate Cake": 
+      {
+         "Meal": "B",
+         "Level": "5",
+         "Directions": "Mix all ingredients together. Pour in 1 cup boiling water. Mix well. Bake about 35 minutes at 375 degrees.",
+         "Category": "Cakes"
+      }
+   ,
+   "Hungry Bear Cheese Cake": 
+      {
+         "Meal": "B",
+         "Level": "4",
+         "Directions": "Combine first 5 ingredients to make crust. Save 1/4 cup for top. Press remaining crumbs evenly over bottom and about 2 inches up sides of a 9 inch spring form pan. Prepare filling: beat cream cheese and cottage cheese until smooth. Add eggs, one at a time, bating well. Blend in lemon juice and vanilla. Mix sugar, flour and salt. Add to cheese mixture. Pour into crust. Bake at 350 degrees until set, about 35 to 40 minutes. Combine topping ingredients (sour cream, sugar, vanilla, and salt). Spread evenly over hot cheese cake. Return to oven until cream sets, about 5 minutes. Cool in pan on rack. Sprinkle reserved crumbs around edge of cake.",
+         "Category": "Cakes"
+      },
+   "Lemon Poppy Cake": 
+      {
+         "Meal": "B",
+         "Level": "4",
+         "Directions": "Mix all for 4 minutes. Bake at 350 degrees for 40 minutes.",
+         "Category": "Cakes"
+      }
+   ,
+   "Light Old Fashioned Fruit Cake": 
+      {
+         "Meal": "B",
+         "Level": "1",
+         "Directions": "Sift dry ingredients into a 4 quart bowl. Add fruit and nuts. Mix until well coated. Set aside. Cream butter, gradually add sugar and cream until fluffy. Add eggs one at a time, beating well after each. Add brandy. Combine with fruit mixture. Mix well. Turn into a 10 inch tube pan or four 1# coffee cans lined with foil, filling pans 2/3 full. Bake in slow oven, 275 degrees for 2 3/4 to 3 hours. About 1/2 hour before done brush lightly with honey or light corn syrup. Cool completely then wrap tightly in foil to store for several weeks. Brush with brandy about once a week.",
+         "Category": "Cakes"
+      }
+   ,
+   "My Best Gingerbread": 
+      {
+         "Meal": "B",
+         "Level": "2",
+         "Directions": "Bake in greased pan for 35 minutes at 325-350 degrees.",
+         "Category": "Cakes"
+      }
+   ,
+   "Oatmeal Cake": 
+      {
+         "Meal": "B",
+         "Level": "2",
+         "Directions": "Pour the water over the oatmeal. Let stand for 20 minutes. Add remaining cake ingredients. Mix well and pour into a greased 9\"x12\" pan. Let stand while mixing topping. To prepare topping: Mix all ingredients together over low heat, until butter melts. Spoon over unbaked cake. Bake 45 minutes at 350 degrees.",
+         "Category": "Cakes"
+      }
+   ,
+   "Orange Angel Food Cake": 
+      {
+         "Meal": "B",
+         "Level": "4",
+         "Directions": "Prepare angel food cake as directed on package, but pour 1/3 cup of the thawed orange juice into a 2 cup measure and add enough water for the mixture to equal the amount of water called for in package directions. Continue to prepare cake as directed, baking the batter in an ungreased 10 inch tube pan. Immediately invert the cake, leaving in pan. Cool completely. Loosen sides of cake from pan; remove cake. To make the topping, in a medium bowl, gently stir together the thawed topping and yogurt. Fold in remaining orange juice concentrate. Spread topping mixture over top ad sides of cake.",
+         "Category": "Cakes"
+      }
+   ,
+   "Orange-Poppy Seed Pound Cake": 
+      {
+         "Meal": "B",
+         "Level": "5",
+         "Directions": "Preheat oven to 325 degrees. Grease and flour a 9x5x3 inch loaf pan; tap out excess flour. In large bowl beat together softened butter, sugar, vanilla, and orange peel until pale and fluffy. Beat in flour, then remaining ingredients, except the glaze (powdered sugar and 2 1/2 tsp. orange juice). Mix until well blended. Spread in prepared pan. With handle of a wooden spoon, make 1/2 inch deep score down center length of batter. Bake 50-60 minutes, until wooden pick inserted in center comes out clean. Cool in pan on rack 30 minutes; invert onto rack; remove pan. Cool completely. To prepare glaze seal powdered sugar and orange juice in small zipper-style bag. Gently massage mixture with fingers until blended and smooth. Snip off corner of bag. Drizzle glaze over cake. Let stand 1 hour or until glaze is set.",
+         "Category": "Cakes"
+      },
+   "Prune Nut Bars": 
+      {
+         "Meal": "B",
+         "Level": "1",
+         "Directions": "Cook Prunes - drain and chop. Mix margarine, sugar and 1 cup of four. Press into 9\" square pan. Bake at 350 degrees for 25 minutes. Sift remaining 1/3 cup flour with baking powder and salt. Beat brown sugar into eggs, lemon and vanilla. Add flour, mix well. Add prunes, nuts, and coconut. Spread over baked bars. Bake at 350 degrees for 30-35 minutes. Cool. Cut into 24 bars. Roll in confectioner's sugar.",
+         "Category": "Cookies"
+      }
+   ,
+   "Pumpkin Oatmeal Cookies": 
+      {
+         "Meal": "B",
+         "Level": "2",
+         "Directions": "Mix eggs, sugar, oil, spices, and pumpkin. Add oats, soda, salt nuts, and raisins. Mix well. Add flour, 1/2 at a time. Drop by teaspoons on ungreased cookie sheet. (These will not spread.) Bake 10 minutes at 325 degrees. Remove from pan. Store in tightly sealed container.",
+         "Category": "Cookies"
+      }
+   ,
+   "Snickerdoodles": 
+      {
+         "Meal": "B",
+         "Level": "3",
+         "Directions": "Mix first 7 ingredients. Roll in balls. Dip in mixture of cinnamon and sugar. Bake for 8-10 minutes at 375 degrees. Makes 4 dozen.",
+         "Category": "Cookies"
+      }
+   ,
+   "Soft Sugar Cookies": 
+      {
+         "Meal": "B",
+         "Level": "4",
+         "Directions": "Cream butter. Add sugar gradually while continuing to cream. Ad eggs one at a time, beating well after each. Add vanilla. Beat until light and fluffy. Add mixed dry ingredients, alternately with sour cream; begin and end with dry ingredients. For 3 inch cookies drop by heaping teaspoons. With spatula flatten into circles about 2 inch wide. Sprinkle with sugar and cinnamon. Bake in hot oven - 400 degrees for 10-20 minutes. Makes about thirty - 3 inch cookies.",
+         "Category": "Cookies"
+      }
+   ,
+   "Thumbprint Cookies": 
+      {
+         "Meal": "B",
+         "Level": "5",
+         "Directions": "Mix first 5 ingredients. Add flour. Roll into ball. Make a thumbprint in each ball. Cook 8-10 minutes at 350 degrees. Fill with jelly or chopped nuts.",
+         "Category": "Cookies"
+      }
+   ,
+   "Walnut Squares": 
+      {
+         "Meal": "B",
+         "Level": "5",
+         "Directions": "Cream butter and sugar. Beat in egg yolk. Sift four and spice, add to creamed mixture. Spread dough in 15\"x10\"x1\" jelly roll pan. Press flat with hands. Beat egg white slightly, brush on dough. Sprinkle nuts on top and press into dough. Bake in 250 degree oven for 1 hour. While hot cut into 1 1/2\" squares. Cool. Makes about 70.",
+         "Category": "Cookies"
+      }
+   ,
+   "Banana Cream Pie": 
+      {
+         "Meal": "B",
+         "Level": "5",
+         "Directions": "In a heavy saucepan dissolve cornstarch inwater; stir in sweetened condensed milk and egg yolks. Cook and stir until thickened and bubbly. Remove from heat; add margarine and vanilla. Cool slightly. Slice 2 bananas; dip in lemon juice and drain. Arrange on bottom of prepare crust. Pour filling over bananas; cover. Chill 4 hours or until set. Spread top with whipped cream. Slice remaining bananas; dip in lemon juice, drain and garnish top of pie. Refrigerate leftovers.",
+         "Category": "Pies"
+      }
+   ,
+   "Creamy Apple Pie": 
+      {
+         "Meal": "B",
+         "Level": "4",
+         "Directions": "Place apples in the pie shell. Mix together sugar, flour, and salt. Sprinkle over apples. in a sauce pan bring cream to boiling point. Pour over apples. Sprinkle generously with cinnamon. Bake at 375 degrees for 45 minutes, until firm.",
+         "Category": "Pies"
+      }
+   ,
+   "Dutch Apple Pie": 
+      {
+         "Meal": "B",
+         "Level": "4",
+         "Directions": "Combine apples, 1/2 cup sugar, and cinnamon. Put into the unbaked pie shell. Top with 1/2 cup sugar, flour, butter, and cinnamon. Bake 45-50 minutes at 350 degrees.",
+         "Category": "Pies"
+      }
+   ,
+   "Fresh Strawberry Pie": 
+      {
+         "Meal": "B",
+         "Level": "4",
+         "Directions": "Slice 1 basket of strawberries. Put half the berries in the bottom of a baked pie shell. Prepare glaze by combining remaining ingredients and cooking in a double-boiler until thickened. Stir the other half of the berries into the glaze. Pour into the shell. Cool. Top with whipped cream and halved berries.",
+         "Category": "Pies"
+      }
+   ,
+   "Lemon Cloud Pie": 
+      {
+         "Meal": "B",
+         "Level": "5",
+         "Directions": "Combine in sauce pan 3/4 cup sugar, cornstarch, water, lemon rind, and juice, and slightly beaten egg yolk. Cook over medium heat stirring constantly until thick. Remove from heat. Add softened cheese, blend well. Cool. Beat egg whites until stiff. Add 1/4 sugar. Fold into lemon mixture. Spoon into crust. Chill 2 hours. Serve with whipped cream.",
+         "Category": "Pies"
+      }
+   ,
+   "Saucy Shrimp Over Chinese Noodle Cakes": 
+      {
+         "Meal": "L",
+         "Level": "4",
+         "Directions": "Prepare Chinese noodle cakes. Combine water, 1 tablespoon cornstarch and 3 tablespoons soy sauce with ketchup; set aside. Blend remaining 1 tablespoon each cornstarch and soy sauce in small bowl; stir in shrimp until coated. Heat 1 tablespoon oil in hot wok or large skillet over high heat. Add shrimp and stir-fry 1 minute; remove. Heat reamining 1 tablespoon oil in same pan. Add garlic and ginger; stir-fry until fragrant. Add green pepper, onion and celery; stir-fry 4 minutes. Stir in soy sauce mixture, shrimp and tomatoes. Cook and stir until sauce boils and thickens. Cut Chinese noodle cakes into squares and serve with shrimp mixture.",
+         "Category": ""
+      }
+   ,
+   "Sole Thermidor": 
+      {
+         "Meal": "L",
+         "Level": "4",
+         "Directions": "Roll fish, cook in milk for 30 minutes at 375 degrees. Drain milk, make sauce with remaining ingredients, sprinkle with paprika. Pour over fish. Broil quickly. Serves 4-5. Line bottom of baking dish with half of the bacon. Cover with onion. Sprinkle on bay leaf. Place trout on top. Blend flour and margerine, spread on fish. Sprinkle with crumbs. Top with bacon. Bake uncovered at 375 degrees for 35-45 minutes until golden brown and flakey.",
+         "Category": ""
+      }
+   ,
+   "Cheesy Fish Fillets with Spinach": 
+      {
+         "Meal": "L",
+         "Level": "5",
+         "Directions": "Heat butter over low heat until melted. Stir in flour, bouillon, nutmeg, red pepper and white pepper; cook over low heat, stirring constantly, until mixture is smooth and bubbly. Stir in milk; heat to boiling and cook, stirring constantly, for 1 minute. Add cheese and cook, stirring constantly, just until cheese melts. Set aside. Place spinach in ungreased 12 in x 7.5 in baking dish or 8 in square baking dish. Sprinkle with the lemon juice. Arrange fish on spinach; sprinkle with salt. Spread sauce over fish and spinach. Bake uncovered, at 350 degrees until fish flakes easily with a fork, about 20 minutes. Sprinkle with the Parmesan cheese and paprika; return to oven for 5 minutes.",
+         "Category": ""
+      }
+   ,
+   "Sauteed Scallops": 
+      {
+         "Meal": "L",
+         "Level": "5",
+         "Directions": "Roll scallops in crumbs and paprika. Saute in butter until golden on all sides. Remove. Add wine or lemon to butter. Add onion to make sauce. Serve with rice.",
+         "Category": ""
+      }
+   ,
+   "Sole Almondie": 
+      {
+         "Meal": "L",
+         "Level": "3",
+         "Directions": "Cut fillets into 4 serving pieces and pat dry. Mix flour, sald t and pepper. Dp fish into milk and then coat with 4 mixture. Heat oil and margarine in large skillet over medium heat until hot. Cook fillets, 6-8 minutes until golden brown, turn once during cooking. Remove fish, keep warm. Drain oil from skillet. Add lemon juice, wine and almonds. Boil for 30 seconds and pour over fish.",
+         "Category": ""
+      }
+   ,
+   "Hot Crab Dip": 
+      {
+         "Meal": "L",
+         "Level": "1",
+         "Directions": "Stir together all ingredients and top with cheddar cheese. Bake for 15-20 minutes. Serve with crackers.",
+         "Category": ""
+      }
+   ,
+   "Shrimp Saute": 
+      {
+         "Meal": "L",
+         "Level": "1",
+         "Directions": "In a skillet, melt butter over medium heat. Add shrimp, mushrooms, green pepper and garlic. Saute until shrimp turn pink, about 3-5 minutes. Meanwhile, cook pasta according to package directions; drain and place on a large serving platter. Top with shrimp mixture. Sprinkle with cheese, salt, pepper and parsley. Toss well; garnish with lemon. Serve immediately.",
+         "Category": ""
+      }
+   ,
+   "Sitr-Fry Beef and Broccoli": 
+      {
+         "Meal": "L",
+         "Level": "1",
+         "Directions": "Cut flank steak across the grain into thin slices. Mix the soy sauce, dry sherry, cornstarch, ginger and garlic ad pour over the beef, tossing to mix well. Cut the broccoli into florets about 2 inches long; slice the stalks into .5 inch pieces. Heat 1 tbsp of the oil in a large, non-stick skillet or wok until hot. Add the beef and stir-fry over high heat until seared, about 2 minutes. Remove beef to a plate. Heat remaining oil in the skillet and add the broccoli and onion. Cook, stirring constantly, for 2 minutes. Add the 2 tablespoons of water or stock, cover the pan, reduce the heat and simmer for 3 to 5 minutes, or until the broccoli is crisp-tender. Stir in the beef and bean sprouts. Toss and stir until heated through.",
+         "Category": ""
+      }
+   ,
+   "Barbecued Spareribs": 
+      {
+         "Meal": "L",
+         "Level": "1",
+         "Directions": "Baste over ribs while browning until done. If sauce is too thin, thicken with 1 or 2 tablespoons of flour.",
+         "Category": ""
+      }
+   ,
+   "Sweet and Sour Pork": 
+      {
+         "Meal": "L",
+         "Level": "3",
+         "Directions": "Cut pork tenderloin into chunks. Combine salt, soy sauce, cornstarch and cold water. Marinade pork for 30 minutes. Drain pork and dip a few pieces at a time in a batter made from chicken coating mix, water and egg yolk. Brown pork in hot oil in wok about 3 minutes or until brown. Remove with slotted spoon. Stir in green pepper carrot and onion. Combine catsup, brown sugar, granulated sugar, cinnamon, ginger, lemon and pineapple. Cook until sauce thickens. Add pork mixture and serve over rice.",
+         "Category": ""
+      },
+   "Beef Scallops with Fresh Tomato Sauce": 
+      {
+         "Meal": "L",
+         "Level": "3",
+         "Directions": "Pound steak to 1/8 inch thick. remove skins from blanched tomatoes. Chop 3 of them and slice the other 2. Set aside. Cook steak in oil on medium high until browned. Remove and keep warm. Add chopped tomatoes to skillet, with green onions. Add sugar, salt, and basil. Stir in cornstarch. Add sliced tomatoes and heat. Gently spoon over meat.",
+         "Category": ""
+      }
+   ,
+   "Veal Scallopini": 
+      {
+         "Meal": "L",
+         "Level": "3",
+         "Directions": "Cut meat into 2 inch pieces and coat in flour. Brown in oil. Add mushrooms, salt, pepper, and wine. Pour over meat in a casserole. Cook in covered casserole for 1 hour at 375 degrees or a heavy covered skillet at low heat for 45 minutes.",
+         "Category": ""
+      }
+   ,
+   "Savory Goulash": 
+      {
+         "Meal": "L",
+         "Level": "5",
+         "Directions": "Brown onion and meat. Add tomato sauce and water. Cook for 2 hours and serve over hot noodles.",
+         "Category": ""
+      }
+   ,
+   "Veal Parmigan": 
+      {
+         "Meal": "L",
+         "Level": "3",
+         "Directions": "Combine first 8 ingredients and simmer for 1 hour over medium-low heat. Dip Veal in egg and then in crumbs, mixed with half cup of parmesan. Brown lightly in hot oil. Place in single layer in large baking dish. Pour 2/3 cup of sauce over meat and bake at 350 degrees for 30 minutes. Place a slice of mozzarella on each meat slice. SPrinkle with remaining parmesan. return to oven for about 15 minutes.",
+         "Category": ""
+      }
+   ,
+   "Teriyaki Steak": 
+      {
+         "Meal": "L",
+         "Level": "5",
+         "Directions": "Marinate for at least 1 hour. Grill over hot coals for about 4 minutes on each side for a 1 inch, rare steak. 5 to 6 minutes for medium-rare.",
+         "Category": ""
+      }
+   ,
+   "Beef Stroganoff": 
+      {
+         "Meal": "L",
+         "Level": "5",
+         "Directions": "Pound salt and flour into the steak. Cut into think strips. Brown onion in oil. Remove brown meat. Add onion and garlic. Simmer covered for 15 minutes. Add soup and mushrooms. Simmer for 1.5 hours, uncovered. Stor in sour cream. Serve over rice or noodles.",
+         "Category": ""
+      }
+   ,
+   "Egg Foo Young": 
+      {
+         "Meal": "L",
+         "Level": "5",
+         "Directions": "Combine first 6 ingredients. Fry in oil to form 3 inch omelettes. To make brown gravy, melt butter, add flour combined with sugar and salt. Add hot water and soy sauce. Cook over low heat until thick. Serve gravy over omelettes.",
+         "Category": ""
+      }
+   ,
+   "Egg Roll Wrappers": 
+      {
+         "Meal": "L",
+         "Level": "2",
+         "Directions": "Beat egg slightly. Add flour, cornstarch, salt and water. Blend until smooth. Heat buttered 7 inch skillet or crepe pad. Add 2 tablespoons pf batter to cover bottom of pan. Brown lightly on bottom side only. Place filling on uncooked side. Roll, seal and fry as directed. 5-7 minutes in deep fat at 375 degrees.",
+         "Category": ""
+      }
+   ,
+   "Pineapple Spareribs": 
+      {
+         "Meal": "L",
+         "Level": "2",
+         "Directions": "Cook ribs at 375 degrees until brown. Combine sugar, vinegar, water, and cornstarch in saucepan. Bring to a boil. Pour over browned ribs. Cook for 1 hour or until ribs are 10der. Add pineapple chunks and green pepper slices. Cover and cook for an additional 20 to 30 minutes.",
+         "Category": ""
+      }
+   ,
+   "Pork Fu Man Chow": 
+      {
+         "Meal": "L",
+         "Level": "2",
+         "Directions": "Saute onion and celery in oil. Add pork, bean sprouts and all other ingredients except peas and noodles. Simmer for 30 minutes. Add peas and simmer for 30 more minutes. Serve over noodles.",
+         "Category": ""
+      }
+   ,
+   "Shrimp Pineapple Fried Rice": 
+      {
+         "Meal": "D",
+         "Level": "1",
+         "Directions": "Fry cooled rice in oil in a skillet. Add shrimp, onions and pineapple. Add soy sauce to taste.",
+         "Category": ""
+      }
+   ,
+   "Albert's Chicken": 
+      {
+         "Meal": "D",
+         "Level": "1",
+         "Directions": "Place chicken in casserole. Heat together remaining ingredients to make sauce. Pour sauce over chicken. Cook in electric skillet or 350 degree oven for about 1 hour.",
+         "Category": ""
+      }
+   ,
+   "Avocado Chicken Melt": 
+      {
+         "Meal": "D",
+         "Level": "1",
+         "Directions": "Using a meat mallet and a hard surface, pound the chicken to 1/4 inch thickness. Mix together the cornstarch, cumin and garlic salt. Add the chicken 1 piece at a time, dredging to coat. Mix the egg and water in a small bowl. Put the cornmeal in another small bowl. Dip the chicken first in the egg wash and then in the cornmeal, turning to coat. Heat the oil in a large frying pan until hot. Add the chicken and cook for 2 minutes on each side. Remove the chicken to a shallow baking pan. Place avocado slices over the chicken and sprinkle cheese. Bake in a preheated 350 degree oven about 15 minutes, or until a fork can be inserted with ease and the cheese is melted. Top the cheese layer with the sour cream. Sprinkle with green onion and red pepper. Garnish with cherry tomatoes and parsley.",
+         "Category": ""
+      }
+   ,
+   "Batter Fried Chicken": 
+      {
+         "Meal": "D",
+         "Level": "1",
+         "Directions": "Make better. Dip chicken, drain 5 to 10 minutes on rack. Fill dutch oven 1/3 full of oil, heat to 375 degrees. Cook chicken about 12 minutes. Drain on paper towels.",
+         "Category": ""
+      }
+   ,
+   "Catalina Chicken Stir Fry": 
+      {
+         "Meal": "D",
+         "Level": "1",
+         "Directions": "Heat dressing, soy sauce and garlic powder in large skillet. Stir in chicken and completely cook, about 8 minutes. Add vegetables and cook, stirring until heated. Serve over cooked rice.",
+         "Category": ""
+      }
+   ,
+   "Chicken Breasts Florentine": 
+      {
+         "Meal": "D",
+         "Level": "1",
+         "Directions": "Cook spinach as directed on package; squeeze to drain. Stir in butter; set aside. Place 1 chicken breast, half b1d side up, between 2 pieces of plastic wrap or waxed paper. Working from center, gently pound chicken with rolling pin or flat side of meat mallet until about 1/4 inch thick. Repeat with remaining chicken breast. In small bowl, combine bread crumbs and basil. Coat chicken breasts with crumb mixture. Heat oil over medium-high heat in large skillet. Cook chicken breasts 5 to 7 minutes on each side or until lightly browned and no longer pink. Reduce heat. Spoon cooked spinach evenly over each chicken breast half; sprinkle with cheese. Cover; cook until cheese is melted.",
+         "Category": ""
+      }
+   ,
+   "Chicken Cashew": 
+      {
+         "Meal": "D",
+         "Level": "1",
+         "Directions": "Skin, bone and cut chicken into bit-size pieces. Put chicken in a casserole and cook, covered, until opaque and tender. Stir several times during cooking. Add pea pods (break off ends and remove strings), onions and mushrooms; stir. Cook, covered for 2 minutes. Add bamboo shoots and water chestnuts. Mix chicken bouillon, soy sauce, cornstarch, sugar, pepper, salt. Add to chicken mixture. Stir. Cook covered until the sauce has thickened and the food is well heated. Stir in cashews. Serve with rice. Makes 6 servings.",
+         "Category": ""
+      }
+   ,
+   "Chicken Lo Mein": 
+      {
+         "Meal": "D",
+         "Level": "2",
+         "Directions": "Marinate chicken in mixture of soy sauce, sherry, and cornstarch. Cook chicken in oil in a wok and remove when d1. Cook green onions, mushrooms, pea pods, and pepper. Add the bouillon and stir in chicken. Serve over linguini",
+         "Category": ""
+      }
+   ,
+   "Chicken Paprika": 
+      {
+         "Meal": "D",
+         "Level": "2",
+         "Directions": "Mix first 8 ingredients in a bag and shake the chicken to coat. Brown the chicken in hot oil. Place in large baking dish. Saute the garlic in oil for 1 minute. Blend in remaining ingredients. Stir and heat. Pour over chicken. Bake uncovered for 1 hour at 325 degrees.",
+         "Category": ""
+      }
+   ,
+   "Chicken Schnitzel": 
+      {
+         "Meal": "D",
+         "Level": "2",
+         "Directions": "On a plate combine 4 tablespoons of flour with salt and pepper. On a second plate, combine bread crumbs, paprika and garlic powder. In a large skillet, heat the oil; dredge each cutlet in seas1d flour, dip in beaten egg, coat in bread crumbs, then place in a skillet. Quickly brown chicken for about 2 minutes on both sides. Remove chicken to plate and keep warm. In the same skillet, combine onion and apple and saute over medium heat until sof10ed, about 5 minutes. Sprinkle remaining flour over mixture and stir to combine. Gradually stir in broth and bring to boil, stirring constantly. To serve, spoon sauerkraut mixture on to center of serving plate and surround with chicken pieces; garnish chicken with lemon slices.",
+         "Category": ""
+      }
+   ,
+   "Chicken with Artichoke": 
+      {
+         "Meal": "D",
+         "Level": "2",
+         "Directions": "Dip chicken in flour, brown in oil. Place in baking dish. Put mushrooms and artichokes over chicken. Make sauce in skillet drippings with wine and onion. Pour over chicken. Cover with foil. Bake for 45 minutes at 350 degrees. Serve with rice.",
+         "Category": ""
+      }
+   ,
+   "Coq au Vin": 
+      {
+         "Meal": "D",
+         "Level": "4",
+         "Directions": "Cook pork, stirring until crisp and well browned. Lift out, set aside. Brown chicken parts, set aside. Stir in wine, broth and mustard. Add meat and chicken. Cover and simmer 35 to 40 minutes. Add cornstarch.",
+         "Category": ""
+      }
+   ,
+   "Creamy Chicken Broccoli with Rice": 
+      {
+         "Meal": "D",
+         "Level": "3",
+         "Directions": "Heat salad dressing in a large skillet. Add chicken and completely cook for about 8 minutes. Stir in broccoli and cook until heated. Add Velveeta and stir until thoroughly melted. Serve over rice.",
+         "Category": ""
+      }
+   ,
+   "In a Hurry Chicken Curry": 
+      {
+         "Meal": "D",
+         "Level": "2",
+         "Directions": "Cut chicken into 1 inch cubes. Heat 2 tablespoons of oil over medium-high heat in a large skillet or wok. Add chicken and saute, stirring for about 5 minutes. Remove to side dish. Place remaining tablespoon of oil in the skillet and cook white onion, garlic and green onion until 10der. Stir in curry, ginger and cornstarch. Slowly add chicken broth; stir until smooth. Add broccoli, apple, raisins and cooked chicken. Cover and simmer for 10 minutes. Serve on a bed of rice and garnish with chopped peanuts. Makes 4 servings.",
+         "Category": ""
+      }
+   ,
+   "Jack Zucchini Chicken": 
+      {
+         "Meal": "D",
+         "Level": "4",
+         "Directions": "Preheat oven to 350 degrees. Shred zucchini through the large holes of a grater, then squeeze it firmly, a handful at a time to extract much of the juice. Toss the zucchini with the green onion and set aside. Stir together the flour, chili powder and 1 teaspoon of salt and set aside.",
+         "Category": ""
+      }
+   ,
+   "Maryland Fried Chicken": 
+      {
+         "Meal": "D",
+         "Level": "4",
+         "Directions": "Shake chicken with flour, salt and pepper in a plastic bag until thoroughly coated. Reserve 1 tablespoon of the flour mixture. Pour enough oil into a large deep skillet to make a half inch depth. Heat to 375 degrees on a deep-fat frying thermometer or until a cube of bread turns golden in about 6ty seconds. Carefully place a single layer of chicken pieces in hot oil; do not crowd pan. Cover and fry for 5 minutes. Uncover and fry until underside is a rich golden brown. Turn pieces, cover and fry for 5 more minutes. Uncover and fry until golden brown. Remove from skillet and drain on paper towels. Repeat with remaining chicken. Pour off oil from skillet. Return 2 tablespoons of oil to the skillet. Add water. Return all chicken to the skillet, skin side up. Cover and cook over low heat for 20 minutes or until chicken is 10der. Remove to serving platter and keep warm. Pour off fat from skillet. Melt butter in skillet. Sprinkle reserved 1 tablespoon seas1d flour over butter and cook for 1 minute. Add milk, stirring and scrapping up brown bits. Cook, stirring constantly until thickened. Spoon some of the gravy over chicken and pour remainder into a gravy boat and serve separately.",
+         "Category": ""
+      }
+   ,
+   "Oven Fried Chicken": 
+      {
+         "Meal": "D",
+         "Level": "4",
+         "Directions": "Mix soup, milk, onion, and parley. Dip chicken in this, then into crumbs. Bake at 400 degrees for 1 hour. Drizzle butter over chicken.",
+         "Category": ""
+      }
+   ,
+   "Parsley and Parmasen Baked Chicken": 
+      {
+         "Meal": "D",
+         "Level": "3",
+         "Directions": "Marinate chicken for 4 hours in the dressing. Spoon over and turn occasionally. Drain. Reserve dressing. Combine eggs and water. Mix the rest of the ingredients in a plastic bag. Dip chicken in egg, then in crumbs and return to baking dish. Spoon dressing on top. Bake at 350 degrees for 40 to 50 minutes.",
+         "Category": ""
+      }
+   ,
+   "Sandra's \"Tree Trimmer\" Chicken": 
+      {
+         "Meal": "D",
+         "Level": "3",
+         "Directions": "Brown chicken in marinade from artichokes. Put raw rice in bottom of large baking dish. Lay chicken on top. Add artichokes, mushrooms, onion, and hand in layers. Pour other ingredients over this. Cover and bake for 1 hour. Remove cover. Bake for another half hour or until thick and chicken is browned.",
+         "Category": ""
+      }
+   ,
+   "Saute'd Chicken Breats": 
+      {
+         "Meal": "D",
+         "Level": "3",
+         "Directions": "Brown chicken with paprika. Cook 15 minutes. Remove to warm platter. Cook mushrooms in wine. Add bouillon, 4, and seasonings. Put rice on platter with chicken. Pour mushroom sauce over all.",
+         "Category": ""
+      }
+   ,
+   "Saute'd Chicken Livers": 
+      {
+         "Meal": "D",
+         "Level": "3",
+         "Directions": "Rinse livers and drain. Shake in flour. Brown in butter a few at a time on medium high heat. Drain excess butter. Put livers in a large skillet. Add all other ingredients. Simmer about 30 minutes with the lid on. Turn of10. Uncover and cook about 15 minutes until slightly dry and sauce is thick.",
+         "Category": ""
+      }
+   ,
+   "Spicy Singapore Wings": 
+      {
+         "Meal": "D",
+         "Level": "3",
+         "Directions": "If using wings, remove and discard tips; cut wings into 2 pieces at the joint. Broil chicken 20 to 25 minutes, or deep fat fry at 375 degrees for 10 to 12 minutes. Combine remaining ingredients. Brush sauce on wings or drummettes to coat evenly. Makes 14 to 20 hot appetizers.",
+         "Category": ""
+      }
+   ,
+   "Turkey Tenderloin Supreme": 
+      {
+         "Meal": "D",
+         "Level": "3",
+         "Directions": "Melt butter in skillet on medium high. Add turkey and onion. Cook 5 minutes, turning occasionally. Stir in soup. Reduce heat. Cover. Simmer for 20 minutes. Remove turkey to platter. Add cheese to skillet. Stir until melted. Serve over turkey and rice or noodles.",
+         "Category": ""
+      }
+   ,
+   "Asparagus Stir-Fried": 
+      {
+         "Meal": "D",
+         "Level": "3",
+         "Directions": "Snap asparagus at their breaking point, cut diagonally into 1 inch lengths and blanch in rapidly boiling, salted water. Heat a wok or skillet over moderately high heat, add oil and heat until very hot. Add garlic and ginger and stir-fry for several seconds. Add asparagus and stir-fry to coat with oil and heat through. Add stock, soy sauce and cornstarch and simmer for 2 to 3 minutes. Season to taste and serve.",
+         "Category": ""
+      }
+   ,
+   "Baked Zucchini with Mushrooms": 
+      {
+         "Meal": "D",
+         "Level": "2",
+         "Directions": "Thinly sliced mushrooms and chop onion; combine in a 10 to 12 inch frying pan with half a cup of water. Stir often on high heat until liquid evaporates and browned bits stick to pan. To deglaze pan, add 1 third cup of broth and stir browned bits free. Repeat deglazing step until onion is golden brown, 2 or 3 more times, using 1 third cup broth each time. Beat eggs to blend; stir in zucchini crumbs, cheese, oregano, pepper, and mushroom mixture. Pour into a buttered 10 by 12 inch shallow oval casserole (or a 9 by 13 inch rectangle). Bake in a 325 degree oven until set in center when shaken, about 45 minutes top with green onions.",
+         "Category": ""
+      }
+   ,
+   "Bit O' Zucchini Bites": 
+      {
+         "Meal": "D",
+         "Level": "3",
+         "Directions": "In a large skillet cook onion and garlic in butter or margarine until onion is tender but not brown. Add zucchini and stir about 2 minutes or till crisp-tender. Remove from heat. In a bowl mix eggs, cheese, cornmeal, cumin, oregano, and zucchini mixture. Spoon a scant 2 tablespoons of the egg mixture into individual greased 1 and 3 quarter inch muffin pans. Bake at 325 degrees for 15 to eighteen minutes or until set. Remove from pans. Or, pour all the batter into a greased 8 by 8 by 2 inch baking pan. Bake for 20 to 25 minutes or until set. Cut in bite size squares. Serve hot. Makes about 24 appetizers.",
+         "Category": ""
+      }
+   ,
+   "Cheesy Spinach Bake": 
+      {
+         "Meal": "D",
+         "Level": "3",
+         "Directions": "Combine. Pour into 1 quart dish. Bake at 375 degrees for 25 minutes.",
+         "Category": ""
+      }
+   ,
+   "Company Cabbage": 
+      {
+         "Meal": "D",
+         "Level": "3",
+         "Directions": "Melt butter. Add cabbage, garlic and 1/4 cup of water. Cover tightly, steam over low heat for 10-12 minutes. Blend next 4 ingredients. Stir into cabbage. Heat thoroughly, but do not boil. Sprinkle with seeds.",
+         "Category": ""
+      }
+   ,
+   "Crisp Potato Pancakes": 
+      {
+         "Meal": "D",
+         "Level": "3",
+         "Directions": "Grate potatoes coarsely. Grate onion. Season with slat and pepper. Add bea10 egg. Form in 2 inch patties. Fry in 1/4 inch of hot oil. Serve with poached egg and salsa or sour cream and chives.",
+         "Category": ""
+      }
+   ,
+   "Easy Oven Baked Potatoes": 
+      {
+         "Meal": "D",
+         "Level": "1",
+         "Directions": "Cut potatoes and onions into 1/4 inch slices. Layer in baking dish. Combine remaining ingredients. Drizzle over top. Bake at 350 degrees for 40 minutes covered. Uncover and bake 20 minutes more. Makes 8 servings.",
+         "Category": ""
+      }
+   ,
+   "Eggplant Rollatini": 
+      {
+         "Meal": "D",
+         "Level": "3",
+         "Directions": "Heat broiler pan 4 inches from heat. In a small bowl, beat egg slightly with a fork; stir in ricotta, all but 1 tablespoon provolone, 2 tablespoons parsley and pepper and mix well. Set aside. SLice eggplant into 12 lengthwise slices. Arrange in single layer on broiler pan; brush with vinaigrette. Broil 3 to 4 minutes until speckled with brown. Turn slices, brush with vinaigrette; broil 3 to 4 minutes until brown and 10der. Adjust oven to 400 degrees. Spoon marinara over bottom of a 10 inch round shallow baking dish. Set aside. Place broiled eggplant slices on work surface. Spread each with 2 tablespoons of the filling and sprinkle with 1/4 teaspoon of basil. Roll slices; jelly roll style. Dip each in sauce in baking dish to coat. Place seam side down. Cover in marinara. Cover with foil. Bake for 35 minutes. Sprinkle with reserved mozzarella and fresh parsley.",
+         "Category": ""
+      }
+   ,
+   "Glazed Carrots": 
+      {
+         "Meal": "D",
+         "Level": "1",
+         "Directions": "Cut carrots in strips or rounds. Boil with butter, sugar and water to almost covered. Cook to fork tender. Stir in orange marmalade.",
+         "Category": ""
+      }
+   ,
+   "Green Beans Salerno": 
+      {
+         "Meal": "D",
+         "Level": "4",
+         "Directions": "Combine salad oil, vinegar and spaghetti sauce mix. Pour over drained beans. Chill. Before serving, toss beans with shredded lettuce and crumbled bacon.",
+         "Category": ""
+      }
+   ,
+   "Italian Zucchini": 
+      {
+         "Meal": "D",
+         "Level": "4",
+         "Directions": "Cut zucchini in thick slices. Saute onion and garlic in oil. Add squash, mushrooms, and seasonings. Simmer slowly until tender.",
+         "Category": ""
+      }
+   ,
+   "Mushrooms in Sour Cream": 
+      {
+         "Meal": "D",
+         "Level": "4",
+         "Directions": "In skillet, fry bacon until crisp. Drain on paper towel. Add onion and mushrooms. Saute 10 minutes on low heat. Stir in flour. Add cream and worcestershire sauce. Cook on low, stirring constantly. Spoon over toast. Sprinkle bacon on top.",
+         "Category": ""
+      }
+   ,
+   "Orange Sweet Potatoes": 
+      {
+         "Meal": "D",
+         "Level": "4",
+         "Directions": "Peel and cut potatoes into 1/2 inch slices. Put potatoes in a large pot of water, butter and sugar. Boil to fork tender. Do not overcook. Save liquid. Gently remove potatoes and layer in a 9x13 inch baking dish. Top with orange slices. Cook liquid down until syrupy. Pour over potatoes. Sprinkle with cinnamon. Bake at 350 degrees for 30 to 40 minutes,",
+         "Category": ""
+      }
+   ,
+   "Peas": 
+      {
+         "Meal": "D",
+         "Level": "1",
+         "Directions": "Thicken liquid from peas and onions. Add other ingredients.",
+         "Category": ""
+      }
+   ,
+   "Saute Zucchini": 
+      {
+         "Meal": "D",
+         "Level": "4",
+         "Directions": "Melt butter in skillet. Slice zucchini thin, Add garlic. Cover and simmer for 5 minutes. Sprinkle with parmesan cheese. Cover and cook 5 minutes longer.",
+         "Category": ""
+      }
+   ,
+   "Spinach Pie": 
+      {
+         "Meal": "D",
+         "Level": "4",
+         "Directions": "Preheat oven to 350 degrees. Let pastry sheets warm to room temperature, according to directions on package. In 1/4 cup hot butter in medium skillet, saute onion until golden, about 5 minutes. Add spinach; stir to combine onion. Remove from heat. In a large bowl, beat eggs with rotary beater. With a wooden spoon, stir in cheese, parsely, dill, salt, pepper and spinach/onion mixture; mix well. Brush a 13x9x2 inch baking pan lightly with some of the melted butter. In bottom of baking pan, layer 8 phyllo pastry sheets 1 by 1, brushing top of each with some of melted butter. SPread evenly with spinach mixture. (Keep unused pastry sheets covered with damp paper towels to prevent drying out.) Cover with 8 more leaves, brushing each with butter; pour any remaining melted butter over the top. Using scissors, trim off any uneven edges of pastry. Cut through top pastry layer to form 18 rectangles, about 3 by 2 inches. Bake 30 to 35 minutes, or until top crust is puffy and golden. Serve warm. Makes 18 servings.",
+         "Category": ""
+      }
+   ,
+   "Spinach Souffle": 
+      {
+         "Meal": "D",
+         "Level": "4",
+         "Directions": "Make white sauce using first 5 ingredients. Remove from heat. Stir in 3 beaten egg yolks. Add spinach. Fold in 3 stiffly beaten egg whites. Pore into a buttered dish. Bake at 400 degrees for 25 minutes. Serve at once.",
+         "Category": ""
+      }
+   ,
+   "Spinach Strudels": 
+      {
+         "Meal": "D",
+         "Level": "4",
+         "Directions": "Butter baking sheets. Steam spinach for 5 minutes. Squeeze out moisture. Melt 6 tablespoons of butter in a heavy skillet over medium heat. Add shallots, cook for 3 minutes. Add spinach and cook until dry, about 8 minutes. Transfer to large bowl. Mix in all cheeses. Arrange 1 phyllo sheet on kitchen towel. Brush with melted butter. Sprinkle with 1 tablespoon of crumbs, top with second sheet, butter and crumbs. Repeat with third, butter and crumbs, spread 1/6 of spinach mix down 1 long side of pastry, 2 inches from edge. Fold 2 inches over filling, then fold in sides. Roll up. Put seam side down on baking sheet. Repeat with remaining filling and phyllo. Cut each strudel into 4 slices,cutting only 1/3 through. Brush with butter. Bake at 350 degrees for 15 minutes. After brushing with egg increase to 400 degrees and bake for 5 minutes more. Cut rest of the way through. Arrange on platter with parsley sprigs.",
+         "Category": ""
+      }
+   ,
+   "Stuffed Zucchini": 
+      {
+         "Meal": "D",
+         "Level": "5",
+         "Directions": "Cook zucchini to fork tender. Slice lengthwise. Remove center pulp to bowl. Brown hambugrer or sausage with chopped onion. Mix with pulp. Add croutons that have been sof10ed in water boullion cube. Add spices to taste. Stir in 2 eggs. Mixture will be quite soft. Spoon into zucchini shells. Sprinkle with parmesan and melted butter or olive oil. Bake 1/2 hour at 350 degrees until filling is set.",
+         "Category": ""
+      }
+   ,
+   "Summer Squash": 
+      {
+         "Meal": "D",
+         "Level": "5",
+         "Directions": "Boil squash until tender. Mash with butter, salt, pepper, worcestershire sauce, 2 eggs, cracker crumbs, onion and parmesan cheese. Put in casserole, top with paprika and bacon bits. Bake about 30 minutes.",
+         "Category": ""
+      }
+   ,
+   "Sweet and Sour Red Cabbage": 
+      {
+         "Meal": "D",
+         "Level": "5",
+         "Directions": "Heat oil in skillet. add cabbage and apple. Combine rest of ingredients, pour over cabbage, Cover tightly. Cook over low heat, sit occasionally for 15-20 minutes, until tender.",
+         "Category": ""
+      }
+   ,
+   "The Spinach": 
+      {
+         "Meal": "D",
+         "Level": "5",
+         "Directions": "Thaw the spinach and wring as dry as possible in a kitchen towel. Put the butter and bacon into a large frying pan and saute until some of the fat is rendered. Add the onions and cook until pale golden. The bacon should not be crisp. Stir in the flour and milk cooking until thickened. Add nutmeg, rosemary, and beef stock base and blend well. Add the spinach and cook over medium heat for 5 minutes or so. Season to taste.",
+         "Category": ""
+      }
+   ,
+   "Three Cheese Spinach": 
+      {
+         "Meal": "D",
+         "Level": "5",
+         "Directions": "Combine onions and mushrooms in small microwave-safe bowl. Microwave 1 to 3 minutes or until onions are soft. Place spinach in 1 1/2 quart microwave-safe casserole. Cover and microwave 6 to 9 minutes, breaking up and rearranging every 3 minutes, until defrosted. Drain well. Add onion mixture to spinach, along with cottage cheese, parmesan cheese, eggs, salt and pepper. Stir well to blend. Microwave, uncovered, 8 to 11 minutes, rotating dish if necessary every 3 minutes, until misture is headted through and set. Sprinkle grated cheese over top and dust lightly with paprika. Microwave about 1 minute longer to melt cheese. Let stand 3 minutes before serving. Yields 6 to 8 servings.",
+         "Category": ""
+      }
+   ,
+   "Tulelake Potato Casserole": 
+      {
+         "Meal": "D",
+         "Level": "5",
+         "Directions": "Thaw potatoes. Mix first 8 ingredients. Put in 9\" x 13\" casserole dish. Top with cornflakes and melted butter mixture. Bake at 350 degrees for 50 minutes. Can be prepared ahead and frozen.",
+         "Category": ""
+      },
+   "Apple Dumplings": 
+      {
+         "Meal": "D",
+         "Level": "5",
+         "Directions": "Make syrup from first 5 ingredients. Make crust - roll 1/4 inch thick. CUt in 5 inch squares. Put 4 pieces of apple on each. Sprinkle with additional sugar, cinnamon, and nutmeg. Dot with butter. Fold corners to center; pinch together. Place 1 inch apart in greased baking dish. Pour syrup on top. Bake 375 degrees for 35 minutes. Serve warm with cream. Makes 6.",
+         "Category": ""
+      }
+   ,
+   "Apple Dessert for a Crowd": 
+      {
+         "Meal": "D",
+         "Level": "5",
+         "Directions": "Combine flour, sugar, salt and shortening. Add egg/milk mixture to flour mixture using beater. Put 1/2 of mixture into a jelly roll pan. Reserve other 1/2 for the op. Sprinkle onto dough in pan; cornflakes, apples, sugar, and cinnamon. Cover with the other 1/2 of dough. Beat egg white until stiff, spread over crust. Bake at 400 degrees for about 40 minutes. Glaze with powdered sugar and hot water glaze while still warm. Would also be good in a smaller pan for a coffee cake strudel breakfast roll.",
+         "Category": ""
+      }
+   ,
+   "Chilled Prune Whip": 
+      {
+         "Meal": "D",
+         "Level": "5",
+         "Directions": "Bring prunes and water to boil, simmer 10 minutes. Cool. Beat egg whites with salt to stiff peaks, In small mixer bowl combine prunes and lemon juice beat until well blended. Fold into egg whites. FOld in nuts. Spoon into dishes. Serves 6 to 8.",
+         "Category": ""
+      }
+   ,
+   "Fresh Peach Dessert": 
+      {
+         "Meal": "D",
+         "Level": "5",
+         "Directions": "Soak gelatin in cold water. Combine margarine, sugar, and egg yolks. Cook until thick. Add gelatin - pour hot mixture over marshmallows. Blend. Fold in stiff-beaten egg whites and peaches. Alternate in layers with cookie crumbs in dish. Chill to serve.",
+         "Category": ""
+      },
+   "Zucchini-Ham Cheese Pie": 
+      {
+         "Meal": "D",
+         "Level": "5",
+         "Directions": "Saute onion, garlic, and zucchini in oil about 5 minutes, until tender. Removed from heat. Add ham, cheese, sour cream, eggs, and seasoning. Spoon into baked pie shell. Melt 2 tablespoons butter. Mix with 1/2 cup bread crumbs and 1/4 cup grated parmesan. Sprinkle in 2 inch ring around filling. Bake 350 degrees at 45 to 50 minutes until set. Let stand 10 minutes before serving.",
+         "Category": ""
+      }
+   
+}
