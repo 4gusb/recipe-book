@@ -1,4 +1,4 @@
-#programa que asigna una comida segun horario y nivel de dificultad deseado
+#program that assign a dish, according desired type of meal and difficulty
 import time 
 import json
 import random
